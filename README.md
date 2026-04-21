@@ -126,5 +126,5 @@ This project integrates Artificial Intelligence concepts:
 
 ---
 
-📌 Conclusion
-This project demonstrates how design thinking and AI can be combined to create a practical solution for workplace stress. By identifying real user problems and patterns, the app delivers meaningful, quick, and accessible stress relief tools for employees.
+📌 Conclusion:-
+* This project demonstrates how design thinking and AI can be combined to create a practical solution for workplace stress. By identifying real user problems and patterns, the app delivers meaningful, quick, and accessible stress relief tools for employees.

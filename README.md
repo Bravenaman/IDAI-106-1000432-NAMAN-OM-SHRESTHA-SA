@@ -15,16 +15,16 @@ To understand workplace stress experiences across different employee roles and i
 I developed 10 diverse employee personas were created to capture a wide range of stress patterns and behaviors.
 *Full details available in the [/Docs]([url](https://docs.google.com/document/d/1pqHULnOYB3JV-7xeZCEX6lktqUG3RvxK0Om2hdhnPoA/edit?tab=t.0)) folder.*
 
-1. **Sarah Chen (Marketing Manager, 34): Faces deadline pressure and performance anxiety.
-2. **Marcus Thompson (Software Developer, 28): Experiences burnout and imposter syndrome.
-3. **Jennifer Rodriguez (HR Director, 45): Emotionally exhausted from handling conflicts.
-4. **David Park (Finance Controller, 52): High-stakes decision stress and work-life imbalance.
-5. **Aisha Mohammed (Customer Service, 31): Deals with difficult customers and emotional strain.
-6. **Tom Anderson (Sales Director, 39): Pressure to meet targets and handle rejection.
-7. **Priya Sharma (Designer, 26): Creative block and comparison anxiety.
-8. **Robert Williams (Operations Manager, 48): Work overload, time-zone stress, and physical fatigue.
-9. **Elena Popov (Nurse Practitioner, 37): Physical and emotional exhaustion from long shifts.
-10. **James Mitchell (Project Manager, 42): Stress from multitasking and stakeholder management.
+1. Sarah Chen (Marketing Manager, 34): Faces deadline pressure and performance anxiety.
+2. Marcus Thompson (Software Developer, 28): Experiences burnout and imposter syndrome.
+3. Jennifer Rodriguez (HR Director, 45): Emotionally exhausted from handling conflicts.
+4. David Park (Finance Controller, 52): High-stakes decision stress and work-life imbalance.
+5. Aisha Mohammed (Customer Service, 31): Deals with difficult customers and emotional strain.
+6. Tom Anderson (Sales Director, 39): Pressure to meet targets and handle rejection.
+7. Priya Sharma (Designer, 26): Creative block and comparison anxiety.
+8. Robert Williams (Operations Manager, 48): Work overload, time-zone stress, and physical fatigue.
+9. Elena Popov (Nurse Practitioner, 37): Physical and emotional exhaustion from long shifts.
+10. James Mitchell (Project Manager, 42): Stress from multitasking and stakeholder management.
 
 ---
 

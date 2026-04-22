@@ -88,7 +88,7 @@ Key stress categories identified:
 ## 🎨 Stage 3: Prototype
 ### 📱 Interactive Design
 The prototype was created using Figma, focusing on a clean and minimal interface to reduce cognitive load.
-- **[Click here to view the Interactive Prototype]((https://repair-cross-93143377.figma.site/))**
+- **[Click here to view the Interactive Prototype](https://www.figma.com/make/GGdrAf79AFZxAWiE65YBQe/Workplace-Stress-Relief-App-UI?p=f&t=aUzMlG5g3OMd8PYL-0&fullscreen=1)**
 
 ### 🖥️ Core Screens
 Screenshots available in /Wireframes folder:
